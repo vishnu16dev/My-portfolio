@@ -1,6 +1,6 @@
-# [PORTFOLIO](https://hovinhthanh7893.github.io/portfolio)
+# [PORTFOLIO](https://devvisshnu@gmail.com.github.io/portfolio)
 
-[https://hovinhthanh7893.github.io/portfolio](https://hovinhthanh7893.github.io/portfolio)
+[https://hovinhthanh7893.github.io/portfolio](https://devvisshnu@gmail.com.github.io/portfolio)
 
 Updated February 2025
 
@@ -182,4 +182,4 @@ fetch('https://api.emailjs.com/api/v1.0/email/send', {
 
 ---
 
-More questions? Please send email to [devvisshnu@gmail.com](mailto:hovinhthanh7893@gmail.com) or text me on [LinkedIn](https://www.linkedin.com/in/vishnu-dev-9a2810269)
+More questions? Please send email to [devvisshnu@gmail.com](mailto:devvisshnu@gmail.com) or text me on [LinkedIn](https://www.linkedin.com/in/vishnu-dev-9a2810269)
