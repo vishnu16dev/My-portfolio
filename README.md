@@ -1,6 +1,6 @@
 # [PORTFOLIO](https://devvisshnu@gmail.com.github.io/portfolio)
 
-[https://hovinhthanh7893.github.io/portfolio](https://devvisshnu@gmail.com.github.io/portfolio)
+[https://devvisshnu@gmail.com.github.io/portfolio](https://devvisshnu@gmail.com.github.io/portfolio)
 
 Updated February 2025
 
